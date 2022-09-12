@@ -1,0 +1,15 @@
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/bin/Debug/net6.0/Fall2022-Collections
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/bin/Debug/net6.0/Fall2022-Collections.deps.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/bin/Debug/net6.0/Fall2022-Collections.runtimeconfig.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/bin/Debug/net6.0/Fall2022-Collections.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/bin/Debug/net6.0/Fall2022-Collections.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.csproj.AssemblyReference.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.AssemblyInfoInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.AssemblyInfo.cs
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.csproj.CoreCompileInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/refint/Fall2022-Collections.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/Fall2022-Collections.genruntimeconfig.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Collections/Fall2022-Collections/Fall2022-Collections/obj/Debug/net6.0/ref/Fall2022-Collections.dll
