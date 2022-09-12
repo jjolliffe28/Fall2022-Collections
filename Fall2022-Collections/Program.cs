@@ -96,5 +96,12 @@ Console.WriteLine(weather.Count);
 
 foreach(var  report in weather)
 {
-    Console.WriteLine(report);
+    Console.WriteLine(report); // prints [Atlanta, 82.3] [Cleveland, 71] - key value pairs
 }
+
+foreach (var report in weather)
+{
+    Console.WriteLine("Temperature: " + report.Key);
+}
+
+// report is a key value pair object, meaning we have access to both the keys and values as we go through each item

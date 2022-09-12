@@ -1,4 +1,26 @@
 ﻿<Properties StartupConfiguration="{538A28DA-D165-4C1A-A8AF-0F15529B6E66}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fall2022-Collections/Program.cs">
+    <Files>
+      <File FileName="Fall2022-Collections/Program.cs" Line="77" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall2022-Collections" expanded="True">
+            <Node name="Fall2022-Collections" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Fall2022-Collections FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Fall2022-Collections PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
